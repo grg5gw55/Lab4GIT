@@ -11,12 +11,12 @@ namespace Alg_Lab2
 {
     public partial class Form1 : Form
     {
-        int[] Arr = new int[500];
-        int[] Arr2 = new int[500];
-        int countArr = 0;
-        int countArr2 = 0;
-        Random rnd = new Random();
-        int count1 = 0, count2 = 0;
+        it[] Arr = new int[500];
+        it[] Arr2 = new int[500];
+        it countArr = 0;
+        it countArr2 = 0;
+        Rndom rnd = new Random();
+        it count1 = 0, count2 = 0;
 
         public Form1()
         {
